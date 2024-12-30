@@ -2,7 +2,6 @@
 
 Bu proje, React, Node.js, Express, Socket.IO ve Tailwind CSS kullanılarak geliştirilmiş bir gerçek zamanlı sohbet uygulamasıdır. Kullanıcıların belirledikleri sohbet odalarına katılmasına ve anlık mesaj alışverişi yapmasına olanak tanır. Bu uygulama, Socket.IO'nun hem frontend hem de backend tarafında sunduğu gerçek zamanlı iletişim yeteneklerini göstermek amacıyla tasarlanmıştır.  
 
----  
 
 ### 🎯 Özellikler  
 
@@ -16,11 +15,12 @@ Bu proje, React, Node.js, Express, Socket.IO ve Tailwind CSS kullanılarak geli�
 
 
 
+
+
 ✔️ Real-Time Chat Application (with Socket.IO)  
 
 This project is a real-time chat application developed using **React**, **Node.js**, **Express**, **Socket.IO**, and **Tailwind CSS**. It allows users to join predefined chat rooms and exchange messages instantly. The application demonstrates the real-time communication capabilities provided by Socket.IO, both on the frontend and backend.  
 
----  
 
 ### 🎯 Features  
 
